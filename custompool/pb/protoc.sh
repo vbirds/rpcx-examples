@@ -1,0 +1,1 @@
+protoc --gofast_out=plugins=rpcx:. ./helloworld.proto
